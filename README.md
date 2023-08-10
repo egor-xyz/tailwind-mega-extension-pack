@@ -20,6 +20,10 @@ Visual Studio Code Marketplace: [Front-End Mega Extension Pack](https://marketpl
 
 Can also be installed in VS Code: Launch VS Code Quick Open (Ctrl+P / Cmd+P), paste the following command, and press enter.
 
+```shell
+ext install egor-xyz.tailwind-mega-extension-pack
+```
+
 ### Sort class names
 
 I recommend to use [prettier-plugin-tailwindcss](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier) for class names sorting
@@ -29,7 +33,3 @@ npm install -D prettier prettier-plugin-tailwindcss
 ```
 
 This plugin follows Prettier’s auto loading convention, so as long as you’ve got Prettier set up in your project, it’ll start working automatically as soon as it’s installed.
-
-```shell
-ext install egor-xyz.tailwind-mega-extension-pack
-```

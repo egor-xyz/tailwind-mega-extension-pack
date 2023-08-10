@@ -2,7 +2,7 @@
   "name": "tailwind-mega-extension-pack",
   "displayName": "Tailwind Mega Extension Pack",
   "description": "Make your Visual Studio Code the best IDE for the Tailwind framework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "egor-xyz",
   "author": "Egor Stronhin",
   "icon": "logo.png",
