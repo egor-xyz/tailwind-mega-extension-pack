@@ -1,21 +1,15 @@
 # Changelog
 
-Front End Mega Extensions Pack changelog
+Make your Visual Studio Code the best IDE for the Tailwind framework
 
-## [1.0.10] - 2021-09-26
-
-### Updated
-
-- New logo
-
-## [1.0.9] - 2021-09-26
+## [1.0.1] - 2023-08-10
 
 ### Updated
 
-- Added more extentions
+- Tailwind Shades extension
 
-## [1.0.7] - 2021-08-05
+## [1.0.0] - 2023-08-10
 
-### Removed
+### Updated
 
-- Remove deprecated extentions
+- Initial commit

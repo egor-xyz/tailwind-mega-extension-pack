@@ -7,6 +7,7 @@ Make your Visual Studio Code the best IDE for the Tailwind framework
 - Tailwind CSS IntelliSense
 - Tailwind Docs
 - Tailwind Fold
+- Tailwind Shades
 - Prettier - Code formatter
 - Auto Close Tag
 - Auto Rename Tag
