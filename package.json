@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-mega-extension-pack",
+  "displayName": "Tailwind Mega Extension Pack",
+  "description": "Make your Visual Studio Code the best IDE for the Tailwind framework",
+  "version": "1.0.0",
+  "publisher": "egor-xyz",
+  "author": "Egor Stronhin",
+  "icon": "logo.png",
+  "repository": "https://github.com/egor-xyz/tailwind-mega-extension-pack",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bradlc.vscode-tailwindcss",
+    "austenc.tailwind-docs",
+    "stivo.tailwind-fold",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag"
+  ]
+}
