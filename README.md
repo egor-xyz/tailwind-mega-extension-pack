@@ -8,7 +8,6 @@ Make your Visual Studio Code the best IDE for the Tailwind framework
 - Tailwind Docs
 - Tailwind Fold
 - Tailwind Shades
-- Tailwind Headwind
 
 ## Installation
 
